@@ -24,7 +24,7 @@ https://www.w3schools.com/css/default.asp
 
 Bài tập:
 - Hoàn thành Level 1 -> 3 trong khóa học: https://www.codeschool.com/courses/discover-devtools (có thể làm hết nếu đã học Javascript).
-- Làm ứng dụng Todo app giống như ảnh.
+- Làm ứng dụng Todo app giống như ảnh (chỉ có giao diện, chưa cần có chức năng).
 ![todo.png](https://github.com/UETCodeCamp/react-camp/raw/master/sources/week-1-1/todo.png)
 
 ## Công cụ hỗ trợ
