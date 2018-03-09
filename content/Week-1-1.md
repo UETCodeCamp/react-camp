@@ -14,14 +14,15 @@ Làm quen với cấu trúc HTML của 1 trang web cơ bản. Tài liệu: https
 ## CSS3
 https://www.w3schools.com/css/default.asp
 
-+ Selector
++ **Selector**
 + Typography
 + Box modal
-+ Layout: http://learnlayout.com
-+ Float/Clear
-+ Positioning
-+ Frameworks/Libraries: Bootstrap
++ **Layout**: http://learnlayout.com
++ **Float/Clear**
++ **Positioning**
++ Frameworks/Libraries: [Bootstrap](https://getbootstrap.com)
 
 Bài tập:
 - Hoàn thành Level 1 -> 3 trong khóa học: https://www.codeschool.com/courses/discover-devtools (có thể làm hết nếu đã học Javascript).
 - Làm ứng dụng Todo app giống như ảnh.
+![todo.png](https://github.com/UETCodeCamp/react-camp/raw/master/sources/week-1-1/todo.png)
