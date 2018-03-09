@@ -1,5 +1,5 @@
-# Lộ trình chi tiết React Camp - UET Code Camp 2018
+# Tài liệu React Camp - UET Code Camp 2018
 
-
-- [Tuần 1 buổi 1](https://github.com/UETCodeCamp/react-camp/blob/master/content/Week-1-1.md)
-- [Tuần 1 buổi 2 - Comming soon...](#)
+## Tổ chức thư mục
+- Tên thư mục được định dạng theo: Tuần - Buổi
+- Mỗi thư mục chứa tệp README.md riêng ghi lại nội dung và bài tập cần hoàn thành
