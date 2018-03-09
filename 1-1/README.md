@@ -27,6 +27,16 @@ https://www.w3schools.com/css/default.asp
 ### Git
 Hiểu được Git là gì và sử dụng được một số thao tác Git cơ bản: clone, add, commit, push.
 
+- Tạo bản sao repo về máy tính local: git clone REPO_URL
+- Thêm tệp cần commit: git add FILE_NAME
+- Commit: git commit -m "COMMIT_CONTENT"
+- Đẩy thay đổi lên Git server: git push -u origin master
+
+REPO_URL: Đường dẫn tới repo trên Git server
+FILE_NAME: Tên tệp/thư mục cần thêm
+COMMIT_CONTENT: Nội dung commit
+
+
 ## Bài tập
 - Hoàn thành Level 1 -> 3 trong khóa học: https://www.codeschool.com/courses/discover-devtools (có thể làm hết nếu đã học Javascript).
 - Làm ứng dụng Todo app giống như ảnh (chỉ có giao diện, chưa cần có chức năng).
