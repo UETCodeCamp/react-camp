@@ -32,9 +32,10 @@ Hiểu được Git là gì và sử dụng được một số thao tác Git c�
 - Commit: git commit -m "COMMIT_CONTENT"
 - Đẩy thay đổi lên Git server: git push -u origin master
 
-REPO_URL: Đường dẫn tới repo trên Git server
-FILE_NAME: Tên tệp/thư mục cần thêm
-COMMIT_CONTENT: Nội dung commit
+Chú thích:
+- REPO_URL: Đường dẫn tới repo trên Git server
+- FILE_NAME: Tên tệp/thư mục cần thêm
+- COMMIT_CONTENT: Nội dung commit
 
 
 ## Bài tập
