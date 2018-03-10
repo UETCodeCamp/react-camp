@@ -42,6 +42,7 @@ Hiểu được Git là gì và sử dụng được một số thao tác Git c�
 - Hoàn thành Level 1 -> 3 trong khóa học: https://www.codeschool.com/courses/discover-devtools (có thể làm hết nếu đã học Javascript).
 - Làm ứng dụng Todo app giống như ảnh (chỉ có giao diện, chưa cần có chức năng): [ảnh mẫu](./todo.png)
 - Nộp bài tập trên Github cá nhân (Bạn phải tạo 1 Repo cho cả khóa và đặt tên thư mục nộp bài theo định dạng: **Tuần - Buổi**)
+- Hạn nộp bài tập: Hết ngày Chủ nhật (11/03/2018)
 
 ## Công cụ hỗ trợ lập trình
 - Browser: Chrome, Firefox
