@@ -25,9 +25,9 @@ https://www.w3schools.com/css/default.asp
 + Frameworks/Libraries: [Bootstrap](https://getbootstrap.com)
 
 ### Git
-Hiểu được Git là gì và sử dụng được một số thao tác Git cơ bản: clone, add, commit, push.
+Hiểu được Git là gì và sử dụng được một số thao tác Git cơ bản: **clone**, **add**, **commit**, **push**.
 
-- Tạo bản sao repo về máy tính local: git clone REPO_URL
+- Tạo bản sao repo về máy tính local: `git clone REPO_URL`
 - Thêm tệp cần commit: `git add FILE_NAME`
 - Commit: `git commit -m "COMMIT_CONTENT"`
 - Đẩy thay đổi lên Git server: `git push -u origin master`
