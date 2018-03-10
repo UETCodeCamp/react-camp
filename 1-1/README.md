@@ -28,14 +28,14 @@ https://www.w3schools.com/css/default.asp
 Hiểu được Git là gì và sử dụng được một số thao tác Git cơ bản: clone, add, commit, push.
 
 - Tạo bản sao repo về máy tính local: git clone REPO_URL
-- Thêm tệp cần commit: git add FILE_NAME
-- Commit: git commit -m "COMMIT_CONTENT"
-- Đẩy thay đổi lên Git server: git push -u origin master
+- Thêm tệp cần commit: `git add FILE_NAME`
+- Commit: `git commit -m "COMMIT_CONTENT"`
+- Đẩy thay đổi lên Git server: `git push -u origin master`
 
 **Chú thích:**
-- REPO_URL: Đường dẫn tới repo trên Git server
-- FILE_NAME: Tên tệp/thư mục cần thêm
-- COMMIT_CONTENT: Nội dung commit
+- `REPO_URL`: Đường dẫn tới repo trên Git server
+- `FILE_NAME`: Tên tệp/thư mục cần thêm
+- `COMMIT_CONTENT`: Nội dung commit
 
 
 ## Bài tập
@@ -44,5 +44,7 @@ Hiểu được Git là gì và sử dụng được một số thao tác Git c�
 - Nộp bài tập trên Github cá nhân (Bạn phải tạo 1 Repo cho cả khóa và đặt tên thư mục nộp bài theo định dạng: **Tuần - Buổi**)
 
 ## Công cụ hỗ trợ lập trình
+- Browser: Chrome, Firefox
 - IDE: WebStorm.
 - Editor: Sublime, Atom, Visual Studio Code.
+- Git GUI: [Source Tree](https://www.sourcetreeapp.com/), [Git Kraken](https://www.gitkraken.com/)
