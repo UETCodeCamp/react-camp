@@ -12,3 +12,7 @@ Làm quen với Javascript cơ bản, DOM, event, callback.
 
 ### Slides
 - [Slides](./slides.pdf)
+
+### Tài liệu tham khảo
+- [W3School Javascript](https://www.w3schools.com/js/default.asp)
+- [freeCodeCamp](https://www.freecodecamp.org)
