@@ -18,7 +18,7 @@ https://www.w3schools.com/css/default.asp
 
 + **Selector**
 + Typography
-+ Box modal
++ Box model
 + **Layout**: http://learnlayout.com
 + **Float/Clear**
 + **Positioning**
