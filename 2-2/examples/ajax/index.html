@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        * {
+            font-size: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<div>
+    <h1 id="demo">The XMLHttpRequest Object</h1>
+    <button type="button" onclick="loadDoc('ajax_info.txt')">Change Content</button>
+    <button type="button" onclick="loadDoc('https://uetcc-todo-app.herokuapp.com/lorem')">Random text</button>
+</div>
+
+<script>
+    function loadDoc(url) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                document.getElementById("demo").innerHTML =
+                    this.responseText;
+            }
+        };
+        xhttp.open("GET", url, true);
+        xhttp.send();
+    }
+</script>
+
+</body>
+</html>
