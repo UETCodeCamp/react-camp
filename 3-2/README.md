@@ -2,6 +2,13 @@
 
 ## ReactJS - Interactive UIs
 
+
+### Cách sử dụng React Developer Tools.
+
+- Debugging
+- Watching UIs
+- Demo
+
 ### State & Props
 
 - State và props là gì?
@@ -20,12 +27,6 @@
 - Xử lý sự kiện người dùng
 - Thay đổi state khi sự kiện xảy ra.
 - Ví dụ: [Code mẫu](https://goo.gl/X1nDTD)
-
-### Cách sử dụng React Developer Tools.
-
-- Debugging
-- Watching UIs
-- Demo
 
 ### Slides
 - [Slides](./slides.pdf)
